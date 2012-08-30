@@ -37,7 +37,7 @@ Template Name: Events Export
 
                 <h4>
                     <a href="<?php echo get_permalink($event->ID) ?>"><?php echo $event->post_title ?></a>
-                    <?php edit_post_link(__(' ( edit )'), null, null, $event->id) ?>
+                    <?php edit_post_link(__(' ( edit )'), null, null, $event->ID) ?>
                 </h4>
                 <div class="postcontent">
                 <?php
