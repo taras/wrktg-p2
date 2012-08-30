@@ -1,0 +1,17 @@
+/*
+Theme Name:     WRKTG P2
+Theme URI:      http://wrktg.com
+Description:    Child theme for P2 Theme
+Author:         Taras Mankovski
+Author URI:     http://taras.cc
+Template:       p2
+Version:        0.1.0
+*/
+
+@import url("../p2/style.css");
+
+/** Export Events **/
+.page-template-events-export-php h3 { margin-bottom: 1em; }
+.page-template-events-export-php h4 { margin-bottom: 0.25em; }
+.page-template-events-export-php .events .postcontent { margin-left: 55px; margin-bottom: 1em; border-bottom: 1px solid #CDCDCD; }
+.page-template-events-export-php .postcontent .date { font-weight: bold; }
