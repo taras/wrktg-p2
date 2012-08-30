@@ -12,6 +12,6 @@ Version:        0.1.0
 
 /** Export Events **/
 .page-template-events-export-php h3 { margin-bottom: 1em; }
-.page-template-events-export-php h4 { margin-bottom: 0.25em; }
-.page-template-events-export-php .events .postcontent { margin-left: 55px; margin-bottom: 1em; border-bottom: 1px solid #CDCDCD; }
+.page-template-events-export-php #main h4 { margin-bottom: 0.25em; margin-left: 0; }
+.page-template-events-export-php .events .postcontent { margin-left: 0; margin-bottom: 1em; border-bottom: 1px solid #CDCDCD; }
 .page-template-events-export-php .postcontent .date { font-weight: bold; }

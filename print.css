@@ -1,0 +1,4 @@
+@import url("style.css");
+.site-navigation, #sidebar, .post-edit-link, .meta, #footer { display: none; }
+#header .sleeve, #wrapper, #footer { box-shadow: none; }
+.sleeve_main { margin-right: 0 }
